@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1> Hello</h1>
       <Restaurent></Restaurent>
+      {/* it is best to mention this element in a route  */}
     </div>
   );
 }
